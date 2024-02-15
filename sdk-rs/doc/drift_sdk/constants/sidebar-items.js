@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BASE_PRECISION","PRICE_PRECISION","QUOTE_PRECISION","SPOT_BALANCE_PRECISION"],"fn":["derive_drift_signer","derive_spot_market_account","derive_spot_market_vault","state_account"],"static":["PROGRAM_ID"],"struct":["ProgramData","TOKEN_PROGRAM_ID"],"trait":["MarketExt"]};
