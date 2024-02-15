@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"drift_sdk":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.73.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"drift_sdk/types/struct.MarketId.html\" title=\"struct drift_sdk::types::MarketId\">MarketId</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.73.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"drift_sdk/types/enum.Context.html\" title=\"enum drift_sdk::types::Context\">Context</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

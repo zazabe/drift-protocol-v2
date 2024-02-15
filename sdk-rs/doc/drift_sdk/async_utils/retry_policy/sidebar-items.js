@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["exponential_backoff","forever","never"],"struct":["ExponentialBackoff","FailFast","InfiniteRetry"],"trait":["TaskRetryPolicy"]};
